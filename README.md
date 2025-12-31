@@ -81,3 +81,15 @@ npm run dev
 Open in browser:
 
 http://localhost:5173
+
+## Demo Credentials
+
+### Admin
+- Email: admin@me.com
+- Password: 123
+
+### Employee
+- Email: employee1@example.com
+- Password: 123
+
+> Note: This project uses browser localStorage for authentication and data persistence. Credentials are for demo purposes only.
